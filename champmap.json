@@ -1,0 +1,989 @@
+{
+  "1": {
+    "name": "Annie",
+    "tagline": "a Criança Sombria",
+    "image": "http://cdn.championcounter.com/images/champions/annie.png?v=1591079425000",
+    "url": "/annie",
+    "statistics": true
+  },
+  "2": {
+    "name": "Olaf",
+    "tagline": "o Berserker",
+    "image": "http://cdn.championcounter.com/images/champions/olaf.png?v=1539412486000",
+    "url": "/olaf",
+    "statistics": true
+  },
+  "3": {
+    "name": "Galio",
+    "tagline": "o Colosso",
+    "image": "http://cdn.championcounter.com/images/champions/galio.png?v=1539412317000",
+    "url": "/galio",
+    "statistics": true
+  },
+  "4": {
+    "name": "Twisted Fate",
+    "tagline": "o Mestre das Cartas",
+    "image": "http://cdn.championcounter.com/images/champions/twistedfate.png?v=1539412643000",
+    "url": "/twistedfate",
+    "statistics": true
+  },
+  "5": {
+    "name": "Xin Zhao",
+    "tagline": "o Senescal de Demacia",
+    "image": "http://cdn.championcounter.com/images/champions/xinzhao.png?v=1539412669000",
+    "url": "/xinzhao",
+    "statistics": true
+  },
+  "6": {
+    "name": "Urgot",
+    "tagline": "o Encouraçado",
+    "image": "http://cdn.championcounter.com/images/champions/urgot.png?v=1539412621000",
+    "url": "/urgot",
+    "statistics": true
+  },
+  "7": {
+    "name": "LeBlanc",
+    "tagline": "a Farsante",
+    "image": "http://cdn.championcounter.com/images/champions/leblanc.png?v=1539412429000",
+    "url": "/leblanc",
+    "statistics": true
+  },
+  "8": {
+    "name": "Vladimir",
+    "tagline": "o Sanguinário Escarlate",
+    "image": "http://cdn.championcounter.com/images/champions/vladimir.png?v=1539412690000",
+    "url": "/vladimir",
+    "statistics": true
+  },
+  "9": {
+    "name": "Fiddlesticks",
+    "tagline": "o Terror Ancestral",
+    "image": "http://cdn.championcounter.com/images/champions/fiddlesticks.png?v=1591079499000",
+    "url": "/fiddlesticks",
+    "statistics": true
+  },
+  "10": {
+    "name": "Kayle",
+    "tagline": "a Julgadora",
+    "image": "http://cdn.championcounter.com/images/champions/kayle.png?v=1539412394000",
+    "url": "/kayle",
+    "statistics": true
+  },
+  "11": {
+    "name": "Master Yi",
+    "tagline": "o Espadachim Wuju",
+    "image": "http://cdn.championcounter.com/images/champions/masteryi.png?v=1539412462000",
+    "url": "/masteryi",
+    "statistics": true
+  },
+  "12": {
+    "name": "Alistar",
+    "tagline": "o Minotauro",
+    "image": "http://cdn.championcounter.com/images/champions/alistar.png?v=1591079465000",
+    "url": "/alistar",
+    "statistics": true
+  },
+  "13": {
+    "name": "Ryze",
+    "tagline": "o Mago Rúnico",
+    "image": "http://cdn.championcounter.com/images/champions/ryze.png?v=1539412523000",
+    "url": "/ryze",
+    "statistics": true
+  },
+  "14": {
+    "name": "Sion",
+    "tagline": "o Colosso Morto-Vivo",
+    "image": "http://cdn.championcounter.com/images/champions/sion.png?v=1539412549000",
+    "url": "/sion",
+    "statistics": true
+  },
+  "15": {
+    "name": "Sivir",
+    "tagline": "a Mestra da Batalha",
+    "image": "http://cdn.championcounter.com/images/champions/sivir.png?v=1539412565000",
+    "url": "/sivir",
+    "statistics": true
+  },
+  "16": {
+    "name": "Soraka",
+    "tagline": "a Filha das Estrelas",
+    "image": "http://cdn.championcounter.com/images/champions/soraka.png?v=1539412596000",
+    "url": "/soraka",
+    "statistics": true
+  },
+  "17": {
+    "name": "Teemo",
+    "tagline": "o Explorador Veloz",
+    "image": "http://cdn.championcounter.com/images/champions/teemo.png?v=1539412592000",
+    "url": "/teemo",
+    "statistics": true
+  },
+  "18": {
+    "name": "Tristana",
+    "tagline": "a Artilheira Yordle",
+    "image": "http://cdn.championcounter.com/images/champions/tristana.png?v=1539412617000",
+    "url": "/tristana",
+    "statistics": true
+  },
+  "19": {
+    "name": "Warwick",
+    "tagline": "a Ira Desimpedida de Zaun",
+    "image": "http://cdn.championcounter.com/images/champions/warwick.png?v=1539412653000",
+    "url": "/warwick",
+    "statistics": true
+  },
+  "20": {
+    "name": "Nunu e Willump",
+    "tagline": "o Garoto e seu Yeti",
+    "image": "http://cdn.championcounter.com/images/champions/nunuwillump.png?v=1539412502000",
+    "url": "/nunuwillump",
+    "statistics": true
+  },
+  "21": {
+    "name": "Miss Fortune",
+    "tagline": "a Caçadora de Recompensas",
+    "image": "http://cdn.championcounter.com/images/champions/missfortune.png?v=1539412469000",
+    "url": "/missfortune",
+    "statistics": true
+  },
+  "22": {
+    "name": "Ashe",
+    "tagline": "a Arqueira do Gelo",
+    "image": "http://cdn.championcounter.com/images/champions/ashe.png?v=1591079437000",
+    "url": "/ashe",
+    "statistics": true
+  },
+  "23": {
+    "name": "Tryndamere",
+    "tagline": "o Rei Bárbaro",
+    "image": "http://cdn.championcounter.com/images/champions/tryndamere.png?v=1539412605000",
+    "url": "/tryndamere",
+    "statistics": true
+  },
+  "24": {
+    "name": "Jax",
+    "tagline": "o Grão-Mestre das Armas",
+    "image": "http://cdn.championcounter.com/images/champions/jax.png?v=1539412363000",
+    "url": "/jax",
+    "statistics": true
+  },
+  "25": {
+    "name": "Morgana",
+    "tagline": "o Anjo Caído",
+    "image": "http://cdn.championcounter.com/images/champions/morgana.png?v=1539412458000",
+    "url": "/morgana",
+    "statistics": true
+  },
+  "26": {
+    "name": "Zilean",
+    "tagline": "o Guardião do Tempo",
+    "image": "http://cdn.championcounter.com/images/champions/zilean.png?v=1539412693000",
+    "url": "/zilean",
+    "statistics": true
+  },
+  "27": {
+    "name": "Singed",
+    "tagline": "o Químico Louco",
+    "image": "http://cdn.championcounter.com/images/champions/singed.png?v=1539412539000",
+    "url": "/singed",
+    "statistics": true
+  },
+  "28": {
+    "name": "Evelynn",
+    "tagline": "Abraço da Agonia",
+    "image": "http://cdn.championcounter.com/images/champions/evelynn.png?v=1591079474000",
+    "url": "/evelynn",
+    "statistics": true
+  },
+  "29": {
+    "name": "Twitch",
+    "tagline": "o Semeador da Peste",
+    "image": "http://cdn.championcounter.com/images/champions/twitch.png?v=1539412613000",
+    "url": "/twitch",
+    "statistics": true
+  },
+  "30": {
+    "name": "Karthus",
+    "tagline": "a Voz Mortal",
+    "image": "http://cdn.championcounter.com/images/champions/karthus.png?v=1539412380000",
+    "url": "/karthus",
+    "statistics": true
+  },
+  "31": {
+    "name": "Cho'Gath",
+    "tagline": "o Terror do Vazio",
+    "image": "http://cdn.championcounter.com/images/champions/chogath.png?v=1591079488000",
+    "url": "/chogath",
+    "statistics": true
+  },
+  "32": {
+    "name": "Amumu",
+    "tagline": "a Múmia Triste",
+    "image": "http://cdn.championcounter.com/images/champions/amumu.png?v=1591079422000",
+    "url": "/amumu",
+    "statistics": true
+  },
+  "33": {
+    "name": "Rammus",
+    "tagline": "o Tatu Blindado",
+    "image": "http://cdn.championcounter.com/images/champions/rammus.png?v=1539412534000",
+    "url": "/rammus",
+    "statistics": true
+  },
+  "34": {
+    "name": "Anivia",
+    "tagline": "a Criofênix",
+    "image": "http://cdn.championcounter.com/images/champions/anivia.png?v=1591079442000",
+    "url": "/anivia",
+    "statistics": true
+  },
+  "35": {
+    "name": "Shaco",
+    "tagline": "o Bufão Demoníaco",
+    "image": "http://cdn.championcounter.com/images/champions/shaco.png?v=1539412556000",
+    "url": "/shaco",
+    "statistics": true
+  },
+  "36": {
+    "name": "Dr. Mundo",
+    "tagline": "o Louco de Zaun",
+    "image": "http://cdn.championcounter.com/images/champions/drmundo.png?v=1585035085000",
+    "url": "/drmundo",
+    "statistics": true
+  },
+  "37": {
+    "name": "Sona",
+    "tagline": "a Mestra das Cordas",
+    "image": "http://cdn.championcounter.com/images/champions/sona.png?v=1539412572000",
+    "url": "/sona",
+    "statistics": true
+  },
+  "38": {
+    "name": "Kassadin",
+    "tagline": "o Andarilho do Vazio",
+    "image": "http://cdn.championcounter.com/images/champions/kassadin.png?v=1539412384000",
+    "url": "/kassadin",
+    "statistics": true
+  },
+  "39": {
+    "name": "Irelia",
+    "tagline": "a Dançarina das Lâminas",
+    "image": "http://cdn.championcounter.com/images/champions/irelia.png?v=1539412350000",
+    "url": "/irelia",
+    "statistics": true
+  },
+  "40": {
+    "name": "Janna",
+    "tagline": "a Fúria da Tormenta",
+    "image": "http://cdn.championcounter.com/images/champions/janna.png?v=1539412348000",
+    "url": "/janna",
+    "statistics": true
+  },
+  "41": {
+    "name": "Gangplank",
+    "tagline": "o Terror dos Doze Mares",
+    "image": "http://cdn.championcounter.com/images/champions/gangplank.png?v=1591079490000",
+    "url": "/gangplank",
+    "statistics": true
+  },
+  "42": {
+    "name": "Corki",
+    "tagline": "o Bombardeiro Ousado",
+    "image": "http://cdn.championcounter.com/images/champions/corki.png?v=1591079543000",
+    "url": "/corki",
+    "statistics": true
+  },
+  "43": {
+    "name": "Karma",
+    "tagline": "a Iluminada",
+    "image": "http://cdn.championcounter.com/images/champions/karma.png?v=1539412378000",
+    "url": "/karma",
+    "statistics": true
+  },
+  "44": {
+    "name": "Taric",
+    "tagline": "o Escudo de Valoran",
+    "image": "http://cdn.championcounter.com/images/champions/taric.png?v=1539412610000",
+    "url": "/taric",
+    "statistics": true
+  },
+  "45": {
+    "name": "Veigar",
+    "tagline": "o Pequeno Mestre do Mal",
+    "image": "http://cdn.championcounter.com/images/champions/veigar.png?v=1539412640000",
+    "url": "/veigar",
+    "statistics": true
+  },
+  "48": {
+    "name": "Trundle",
+    "tagline": "o Rei dos Trolls",
+    "image": "http://cdn.championcounter.com/images/champions/trundle.png?v=1539412649000",
+    "url": "/trundle",
+    "statistics": true
+  },
+  "50": {
+    "name": "Swain",
+    "tagline": "o Grande General Noxiano",
+    "image": "http://cdn.championcounter.com/images/champions/swain.png?v=1539412558000",
+    "url": "/swain",
+    "statistics": true
+  },
+  "51": {
+    "name": "Caitlyn",
+    "tagline": "a Xerife de Piltover",
+    "image": "http://cdn.championcounter.com/images/champions/caitlyn.png?v=1591079460000",
+    "url": "/caitlyn",
+    "statistics": true
+  },
+  "53": {
+    "name": "Blitzcrank",
+    "tagline": "o Grande Golem a Vapor",
+    "image": "http://cdn.championcounter.com/images/champions/blitzcrank.png?v=1591079448000",
+    "url": "/blitzcrank",
+    "statistics": true
+  },
+  "54": {
+    "name": "Malphite",
+    "tagline": "o Fragmento do Monolito",
+    "image": "http://cdn.championcounter.com/images/champions/malphite.png?v=1539412442000",
+    "url": "/malphite",
+    "statistics": true
+  },
+  "55": {
+    "name": "Katarina",
+    "tagline": "a Lâmina Sinistra",
+    "image": "http://cdn.championcounter.com/images/champions/katarina.png?v=1539412388000",
+    "url": "/katarina",
+    "statistics": true
+  },
+  "56": {
+    "name": "Nocturne",
+    "tagline": "o Eterno Pesadelo",
+    "image": "http://cdn.championcounter.com/images/champions/nocturne.png?v=1539412504000",
+    "url": "/nocturne",
+    "statistics": true
+  },
+  "57": {
+    "name": "Maokai",
+    "tagline": "o Ente Sinistro",
+    "image": "http://cdn.championcounter.com/images/champions/maokai.png?v=1539412450000",
+    "url": "/maokai",
+    "statistics": true
+  },
+  "58": {
+    "name": "Renekton",
+    "tagline": "o Carniceiro das Areias",
+    "image": "http://cdn.championcounter.com/images/champions/renekton.png?v=1539412561000",
+    "url": "/renekton",
+    "statistics": true
+  },
+  "59": {
+    "name": "Jarvan IV",
+    "tagline": "o Exemplo de Demacia",
+    "image": "http://cdn.championcounter.com/images/champions/jarvaniv.png?v=1539412357000",
+    "url": "/jarvaniv",
+    "statistics": true
+  },
+  "60": {
+    "name": "Elise",
+    "tagline": "a Aranha Rainha",
+    "image": "http://cdn.championcounter.com/images/champions/elise.png?v=1585035081000",
+    "url": "/elise",
+    "statistics": true
+  },
+  "61": {
+    "name": "Orianna",
+    "tagline": "a Donzela Mecânica",
+    "image": "http://cdn.championcounter.com/images/champions/orianna.png?v=1539412489000",
+    "url": "/orianna",
+    "statistics": true
+  },
+  "62": {
+    "name": "Wukong",
+    "tagline": "o Macaco Rei",
+    "image": "http://cdn.championcounter.com/images/champions/wukong.png?v=1539412454000",
+    "url": "/wukong",
+    "statistics": true
+  },
+  "63": {
+    "name": "Brand",
+    "tagline": "a Vingança Flamejante",
+    "image": "http://cdn.championcounter.com/images/champions/brand.png?v=1591079456000",
+    "url": "/brand",
+    "statistics": true
+  },
+  "64": {
+    "name": "Lee Sin",
+    "tagline": "o Monge Cego",
+    "image": "http://cdn.championcounter.com/images/champions/leesin.png?v=1539412422000",
+    "url": "/leesin",
+    "statistics": true
+  },
+  "67": {
+    "name": "Vayne",
+    "tagline": "a Caçadora Noturna",
+    "image": "http://cdn.championcounter.com/images/champions/vayne.png?v=1539412633000",
+    "url": "/vayne",
+    "statistics": true
+  },
+  "68": {
+    "name": "Rumble",
+    "tagline": "a Ameaça Mecânica",
+    "image": "http://cdn.championcounter.com/images/champions/rumble.png?v=1539412539000",
+    "url": "/rumble",
+    "statistics": true
+  },
+  "69": {
+    "name": "Cassiopeia",
+    "tagline": "o Abraço da Serpente",
+    "image": "http://cdn.championcounter.com/images/champions/cassiopeia.png?v=1589956262000",
+    "url": "/cassiopeia",
+    "statistics": true
+  },
+  "72": {
+    "name": "Skarner",
+    "tagline": "a Vanguarda de Cristal",
+    "image": "http://cdn.championcounter.com/images/champions/skarner.png?v=1539412570000",
+    "url": "/skarner",
+    "statistics": true
+  },
+  "74": {
+    "name": "Heimerdinger",
+    "tagline": "o Inventor Idolatrado",
+    "image": "http://cdn.championcounter.com/images/champions/heimerdinger.png?v=1539412334000",
+    "url": "/heimerdinger",
+    "statistics": true
+  },
+  "75": {
+    "name": "Nasus",
+    "tagline": "o Curador das Areias",
+    "image": "http://cdn.championcounter.com/images/champions/nasus.png?v=1539412475000",
+    "url": "/nasus",
+    "statistics": true
+  },
+  "76": {
+    "name": "Nidalee",
+    "tagline": "a Caçadora Bestial",
+    "image": "http://cdn.championcounter.com/images/champions/nidalee.png?v=1539412479000",
+    "url": "/nidalee",
+    "statistics": true
+  },
+  "77": {
+    "name": "Udyr",
+    "tagline": "o Andarilho Espiritual",
+    "image": "http://cdn.championcounter.com/images/champions/udyr.png?v=1539412628000",
+    "url": "/udyr",
+    "statistics": true
+  },
+  "78": {
+    "name": "Poppy",
+    "tagline": "Guardiã do Martelo",
+    "image": "http://cdn.championcounter.com/images/champions/poppy.png?v=1539412516000",
+    "url": "/poppy",
+    "statistics": true
+  },
+  "79": {
+    "name": "Gragas",
+    "tagline": "o Badernista",
+    "image": "http://cdn.championcounter.com/images/champions/gragas.png?v=1539412367000",
+    "url": "/gragas",
+    "statistics": true
+  },
+  "80": {
+    "name": "Pantheon",
+    "tagline": "o Artesão da Guerra",
+    "image": "http://cdn.championcounter.com/images/champions/pantheon.png?v=1539412509000",
+    "url": "/pantheon",
+    "statistics": true
+  },
+  "81": {
+    "name": "Ezreal",
+    "tagline": "o Explorador Pródigo",
+    "image": "http://cdn.championcounter.com/images/champions/ezreal.png?v=1539412288000",
+    "url": "/ezreal",
+    "statistics": true
+  },
+  "82": {
+    "name": "Mordekaiser",
+    "tagline": "o Revenã de Ferro",
+    "image": "http://cdn.championcounter.com/images/champions/mordekaiser.png?v=1539412464000",
+    "url": "/mordekaiser",
+    "statistics": true
+  },
+  "83": {
+    "name": "Yorick",
+    "tagline": "Pastor de Almas",
+    "image": "http://cdn.championcounter.com/images/champions/yorick.png?v=1539412683000",
+    "url": "/yorick",
+    "statistics": true
+  },
+  "84": {
+    "name": "Akali",
+    "tagline": "a Assassina Renegada",
+    "image": "http://cdn.championcounter.com/images/champions/akali.png?v=1591079481000",
+    "url": "/akali",
+    "statistics": true
+  },
+  "85": {
+    "name": "Kennen",
+    "tagline": "o Coração da Tempestade",
+    "image": "http://cdn.championcounter.com/images/champions/kennen.png?v=1539412402000",
+    "url": "/kennen",
+    "statistics": true
+  },
+  "86": {
+    "name": "Garen",
+    "tagline": "o Poder de Demacia",
+    "image": "http://cdn.championcounter.com/images/champions/garen.png?v=1539412330000",
+    "url": "/garen",
+    "statistics": true
+  },
+  "89": {
+    "name": "Leona",
+    "tagline": "a Alvorada Radiante",
+    "image": "http://cdn.championcounter.com/images/champions/leona.png?v=1539412425000",
+    "url": "/leona",
+    "statistics": true
+  },
+  "90": {
+    "name": "Malzahar",
+    "tagline": "o Profeta do Vazio",
+    "image": "http://cdn.championcounter.com/images/champions/malzahar.png?v=1539412448000",
+    "url": "/malzahar",
+    "statistics": true
+  },
+  "91": {
+    "name": "Talon",
+    "tagline": "a Sombra da Lâmina",
+    "image": "http://cdn.championcounter.com/images/champions/talon.png?v=1539412600000",
+    "url": "/talon",
+    "statistics": true
+  },
+  "92": {
+    "name": "Riven",
+    "tagline": "a Exilada",
+    "image": "http://cdn.championcounter.com/images/champions/riven.png?v=1539412527000",
+    "url": "/riven",
+    "statistics": true
+  },
+  "96": {
+    "name": "Kog'Maw",
+    "tagline": "a Boca do Abismo",
+    "image": "http://cdn.championcounter.com/images/champions/kogmaw.png?v=1539412409000",
+    "url": "/kogmaw",
+    "statistics": true
+  },
+  "98": {
+    "name": "Shen",
+    "tagline": "o Olho do Crepúsculo",
+    "image": "http://cdn.championcounter.com/images/champions/shen.png?v=1539412575000",
+    "url": "/shen",
+    "statistics": true
+  },
+  "99": {
+    "name": "Lux",
+    "tagline": "a Dama da Luz",
+    "image": "http://cdn.championcounter.com/images/champions/lux.png?v=1539412438000",
+    "url": "/lux",
+    "statistics": true
+  },
+  "101": {
+    "name": "Xerath",
+    "tagline": "o Mago Ascendente",
+    "image": "http://cdn.championcounter.com/images/champions/xerath.png?v=1539412698000",
+    "url": "/xerath",
+    "statistics": true
+  },
+  "102": {
+    "name": "Shyvana",
+    "tagline": "a Meio-Dragão",
+    "image": "http://cdn.championcounter.com/images/champions/shyvana.png?v=1539412581000",
+    "url": "/shyvana",
+    "statistics": true
+  },
+  "103": {
+    "name": "Ahri",
+    "tagline": "a Raposa de Nove Caudas",
+    "image": "http://cdn.championcounter.com/images/champions/ahri.png?v=1591079444000",
+    "url": "/ahri",
+    "statistics": true
+  },
+  "104": {
+    "name": "Graves",
+    "tagline": "o Foragido",
+    "image": "http://cdn.championcounter.com/images/champions/graves.png?v=1539412325000",
+    "url": "/graves",
+    "statistics": true
+  },
+  "105": {
+    "name": "Fizz",
+    "tagline": "o Trapaceiro das Marés",
+    "image": "http://cdn.championcounter.com/images/champions/fizz.png?v=1539412314000",
+    "url": "/fizz",
+    "statistics": true
+  },
+  "106": {
+    "name": "Volibear",
+    "tagline": "o Rugido do Trovão",
+    "image": "http://cdn.championcounter.com/images/champions/volibear.png?v=1539412660000",
+    "url": "/volibear",
+    "statistics": true
+  },
+  "107": {
+    "name": "Rengar",
+    "tagline": "o Acossador da Alcateia",
+    "image": "http://cdn.championcounter.com/images/champions/rengar.png?v=1539412539000",
+    "url": "/rengar",
+    "statistics": true
+  },
+  "110": {
+    "name": "Varus",
+    "tagline": "a Flecha da Vingança",
+    "image": "http://cdn.championcounter.com/images/champions/varus.png?v=1539412626000",
+    "url": "/varus",
+    "statistics": true
+  },
+  "111": {
+    "name": "Nautilus",
+    "tagline": "o Titã das Profundezas",
+    "image": "http://cdn.championcounter.com/images/champions/nautilus.png?v=1539412483000",
+    "url": "/nautilus",
+    "statistics": true
+  },
+  "112": {
+    "name": "Viktor",
+    "tagline": "o Arauto das Máquinas",
+    "image": "http://cdn.championcounter.com/images/champions/viktor.png?v=1539412657000",
+    "url": "/viktor",
+    "statistics": true
+  },
+  "113": {
+    "name": "Sejuani",
+    "tagline": "Fúria do Norte",
+    "image": "http://cdn.championcounter.com/images/champions/sejuani.png?v=1539412551000",
+    "url": "/sejuani",
+    "statistics": true
+  },
+  "114": {
+    "name": "Fiora",
+    "tagline": "a Grande Duelista",
+    "image": "http://cdn.championcounter.com/images/champions/fiora.png?v=1539412310000",
+    "url": "/fiora",
+    "statistics": true
+  },
+  "115": {
+    "name": "Ziggs",
+    "tagline": "o Especialista em Hexplosivos",
+    "image": "http://cdn.championcounter.com/images/champions/ziggs.png?v=1539412673000",
+    "url": "/ziggs",
+    "statistics": true
+  },
+  "117": {
+    "name": "Lulu",
+    "tagline": "a Fada Feiticeira",
+    "image": "http://cdn.championcounter.com/images/champions/lulu.png?v=1539412436000",
+    "url": "/lulu",
+    "statistics": true
+  },
+  "119": {
+    "name": "Draven",
+    "tagline": "o Carrasco de Noxus",
+    "image": "http://cdn.championcounter.com/images/champions/draven.png?v=1591079476000",
+    "url": "/draven",
+    "statistics": true
+  },
+  "120": {
+    "name": "Hecarim",
+    "tagline": "a Sombra da Guerra",
+    "image": "http://cdn.championcounter.com/images/champions/hecarim.png?v=1539412345000",
+    "url": "/hecarim",
+    "statistics": true
+  },
+  "121": {
+    "name": "Kha'Zix",
+    "tagline": "o Ceifador do Vazio",
+    "image": "http://cdn.championcounter.com/images/champions/khazix.png?v=1539412420000",
+    "url": "/khazix",
+    "statistics": true
+  },
+  "122": {
+    "name": "Darius",
+    "tagline": "a Mão de Noxus",
+    "image": "http://cdn.championcounter.com/images/champions/darius.png?v=1591079478000",
+    "url": "/darius",
+    "statistics": true
+  },
+  "126": {
+    "name": "Jayce",
+    "tagline": "o Defensor do Amanhã",
+    "image": "http://cdn.championcounter.com/images/champions/jayce.png?v=1539412353000",
+    "url": "/jayce",
+    "statistics": true
+  },
+  "127": {
+    "name": "Lissandra",
+    "tagline": "a Bruxa Gélida",
+    "image": "http://cdn.championcounter.com/images/champions/lissandra.png?v=1539412407000",
+    "url": "/lissandra",
+    "statistics": true
+  },
+  "131": {
+    "name": "Diana",
+    "tagline": "o Escárnio da Lua",
+    "image": "http://cdn.championcounter.com/images/champions/diana.png?v=1588228275000",
+    "url": "/diana",
+    "statistics": true
+  },
+  "133": {
+    "name": "Quinn",
+    "tagline": "as Asas de Demacia",
+    "image": "http://cdn.championcounter.com/images/champions/quinn.png?v=1539412497000",
+    "url": "/quinn",
+    "statistics": true
+  },
+  "134": {
+    "name": "Syndra",
+    "tagline": "a Soberana Sombria",
+    "image": "http://cdn.championcounter.com/images/champions/syndra.png?v=1539412588000",
+    "url": "/syndra",
+    "statistics": true
+  },
+  "136": {
+    "name": "Aurelion Sol",
+    "tagline": "o Forjador de Estrelas",
+    "image": "http://cdn.championcounter.com/images/champions/aurelionsol.png?v=1591079456000",
+    "url": "/aurelionsol",
+    "statistics": true
+  },
+  "141": {
+    "name": "Kayn",
+    "tagline": "o Ceifador das Sombras",
+    "image": "http://cdn.championcounter.com/images/champions/kayn.png?v=1539412403000",
+    "url": "/kayn",
+    "statistics": true
+  },
+  "142": {
+    "name": "Zoe",
+    "tagline": "o Aspecto do Crepúsculo",
+    "image": "http://cdn.championcounter.com/images/champions/zoe.png?v=1539412687000",
+    "url": "/zoe",
+    "statistics": false
+  },
+  "143": {
+    "name": "Zyra",
+    "tagline": "a Ascensão dos Espinhos",
+    "image": "http://cdn.championcounter.com/images/champions/zyra.png?v=1539412697000",
+    "url": "/zyra",
+    "statistics": true
+  },
+  "145": {
+    "name": "Kai'Sa",
+    "tagline": "Filha do Vazio",
+    "image": "http://cdn.championcounter.com/images/champions/kaisa.png?v=1539412397000",
+    "url": "/kaisa",
+    "statistics": false
+  },
+  "150": {
+    "name": "Gnar",
+    "tagline": "o Yordle Pré-Histórico",
+    "image": "http://cdn.championcounter.com/images/champions/gnar.png?v=1539412359000",
+    "url": "/gnar",
+    "statistics": true
+  },
+  "154": {
+    "name": "Zac",
+    "tagline": "a Arma Secreta",
+    "image": "http://cdn.championcounter.com/images/champions/zac.png?v=1539412682000",
+    "url": "/zac",
+    "statistics": true
+  },
+  "157": {
+    "name": "Yasuo",
+    "tagline": "o Imperdoável",
+    "image": "http://cdn.championcounter.com/images/champions/yasuo.png?v=1539412663000",
+    "url": "/yasuo",
+    "statistics": true
+  },
+  "161": {
+    "name": "Vel'Koz",
+    "tagline": "o Olho do Vazio",
+    "image": "http://cdn.championcounter.com/images/champions/velkoz.png?v=1539412636000",
+    "url": "/velkoz",
+    "statistics": true
+  },
+  "163": {
+    "name": "Taliyah",
+    "tagline": "a Tecelã de Pedras",
+    "image": "http://cdn.championcounter.com/images/champions/taliyah.png?v=1539412587000",
+    "url": "/taliyah",
+    "statistics": true
+  },
+  "164": {
+    "name": "Camille",
+    "tagline": "a Sombra de Aço",
+    "image": "http://cdn.championcounter.com/images/champions/camille.png?v=1591079471000",
+    "url": "/camille",
+    "statistics": true
+  },
+  "201": {
+    "name": "Braum",
+    "tagline": "o Coração de Freljord",
+    "image": "http://cdn.championcounter.com/images/champions/braum.png?v=1591079451000",
+    "url": "/braum",
+    "statistics": true
+  },
+  "202": {
+    "name": "Jhin",
+    "tagline": "o Virtuoso",
+    "image": "http://cdn.championcounter.com/images/champions/jhin.png?v=1539412372000",
+    "url": "/jhin",
+    "statistics": true
+  },
+  "203": {
+    "name": "Kindred",
+    "tagline": "os Caçadores Eternos",
+    "image": "http://cdn.championcounter.com/images/champions/kindred.png?v=1539412399000",
+    "url": "/kindred",
+    "statistics": true
+  },
+  "222": {
+    "name": "Jinx",
+    "tagline": "o Gatilho Desenfreado",
+    "image": "http://cdn.championcounter.com/images/champions/jinx.png?v=1539412370000",
+    "url": "/jinx",
+    "statistics": true
+  },
+  "223": {
+    "name": "Tahm Kench",
+    "tagline": "o Rei do Rio",
+    "image": "http://cdn.championcounter.com/images/champions/tahmkench.png?v=1539412582000",
+    "url": "/tahmkench",
+    "statistics": true
+  },
+  "236": {
+    "name": "Lucian",
+    "tagline": "o Purificador",
+    "image": "http://cdn.championcounter.com/images/champions/lucian.png?v=1539412431000",
+    "url": "/lucian",
+    "statistics": true
+  },
+  "238": {
+    "name": "Zed",
+    "tagline": "o Mestre das Sombras",
+    "image": "http://cdn.championcounter.com/images/champions/zed.png?v=1539412677000",
+    "url": "/zed",
+    "statistics": true
+  },
+  "240": {
+    "name": "Kled",
+    "tagline": "o Cavaleiro Intratável",
+    "image": "http://cdn.championcounter.com/images/champions/kled.png?v=1539412416000",
+    "url": "/kled",
+    "statistics": true
+  },
+  "245": {
+    "name": "Ekko",
+    "tagline": "o Rapaz que Estilhaçou o Tempo",
+    "image": "http://cdn.championcounter.com/images/champions/ekko.png?v=1584775868000",
+    "url": "/ekko",
+    "statistics": true
+  },
+  "254": {
+    "name": "Vi",
+    "tagline": "a Defensora de Piltover",
+    "image": "http://cdn.championcounter.com/images/champions/vi.png?v=1539412666000",
+    "url": "/vi",
+    "statistics": true
+  },
+  "266": {
+    "name": "Aatrox",
+    "tagline": "a Espada Darkin",
+    "image": "http://cdn.championcounter.com/images/champions/aatrox.png?v=1591079420000",
+    "url": "/aatrox",
+    "statistics": true
+  },
+  "267": {
+    "name": "Nami",
+    "tagline": "a Conjuradora das Marés",
+    "image": "http://cdn.championcounter.com/images/champions/nami.png?v=1539412473000",
+    "url": "/nami",
+    "statistics": true
+  },
+  "268": {
+    "name": "Azir",
+    "tagline": "o Imperador das Areias",
+    "image": "http://cdn.championcounter.com/images/champions/azir.png?v=1591079430000",
+    "url": "/azir",
+    "statistics": true
+  },
+  "412": {
+    "name": "Thresh",
+    "tagline": "o Guardião das Correntes",
+    "image": "http://cdn.championcounter.com/images/champions/thresh.png?v=1539412604000",
+    "url": "/thresh",
+    "statistics": true
+  },
+  "420": {
+    "name": "Illaoi",
+    "tagline": "a Sacerdotisa Cráquem",
+    "image": "http://cdn.championcounter.com/images/champions/illaoi.png?v=1539412338000",
+    "url": "/illaoi",
+    "statistics": true
+  },
+  "421": {
+    "name": "Rek'Sai",
+    "tagline": "a Escavadora do Vazio",
+    "image": "http://cdn.championcounter.com/images/champions/reksai.png?v=1539412521000",
+    "url": "/reksai",
+    "statistics": true
+  },
+  "427": {
+    "name": "Ivern",
+    "tagline": "o Pai do Verde",
+    "image": "http://cdn.championcounter.com/images/champions/ivern.png?v=1539412341000",
+    "url": "/ivern",
+    "statistics": true
+  },
+  "429": {
+    "name": "Kalista",
+    "tagline": "a Lança da Vingança",
+    "image": "http://cdn.championcounter.com/images/champions/kalista.png?v=1539412375000",
+    "url": "/kalista",
+    "statistics": true
+  },
+  "432": {
+    "name": "Bardo",
+    "tagline": "o Protetor Andarilho",
+    "image": "http://cdn.championcounter.com/images/champions/bard.png?v=1591079440000",
+    "url": "/bard",
+    "statistics": true
+  },
+  "497": {
+    "name": "Rakan",
+    "tagline": "O Charmoso",
+    "image": "http://cdn.championcounter.com/images/champions/rakan.png?v=1539412513000",
+    "url": "/rakan",
+    "statistics": true
+  },
+  "498": {
+    "name": "Xayah",
+    "tagline": "a Rebelde",
+    "image": "http://cdn.championcounter.com/images/champions/xayah.png?v=1539412647000",
+    "url": "/xayah",
+    "statistics": true
+  },
+  "516": {
+    "name": "Ornn",
+    "tagline": "O Fogo sob a Montanha",
+    "image": "http://cdn.championcounter.com/images/champions/ornn.png?v=1539412493000",
+    "url": "/ornn",
+    "statistics": false
+  },
+  "555": {
+    "name": "Pyke",
+    "tagline": "o Estripador das Águas Sangrentas",
+    "image": "http://cdn.championcounter.com/images/champions/pyke.png?v=1539412495000",
+    "url": "/pyke",
+    "statistics": false
+  }
+}
