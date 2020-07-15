@@ -5,6 +5,10 @@ from utils import only_numerics
 champions = list()
 
 
+def get_data():
+    return champions
+
+
 class TypeChampionRel(Enum):
     WEAK_AGAINST = 'weakAgainst', 1
     STRONG_AGAINST = 'strongAgainst', 2
@@ -77,7 +81,6 @@ class Champion:
 
     def __eq__(self, o: object) -> bool:
         return o.data_name == self.data_name
-
 
 
 class ChampionRel:

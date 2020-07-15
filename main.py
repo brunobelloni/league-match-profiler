@@ -1,9 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
-from champion import Champion
+from champion import Champion, get_data
 from utils import get_all_champions
+import pickle
 
 url_list = get_all_champions()
+
+
+def save():
+    champions = get_data()
+    with open('data.lol', 'wb') as data:
+        pickle.dump(champions, data)
 
 
 def main():
@@ -13,6 +20,7 @@ def main():
         soup = BeautifulSoup(page.content, 'html.parser')
         champion = Champion().parse(soup).process_all(soup)
         print(champion.name, 'ok')
+    save()
 
 
 if __name__ == '__main__':
